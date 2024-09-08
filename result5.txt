@@ -1,0 +1,3 @@
+When Head Speed=149.4cm/s
+Found Team Speed:2.236975m/s
+At Time:874.2230739032582
